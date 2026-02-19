@@ -58,3 +58,12 @@ Decision-support web system helping farmers optimize crop selection using soil a
 * Portfolio: https://het-rank.vercel.app
 * LinkedIn: https://www.linkedin.com/in/het-rank-024540312
 * Email: [hetrank08@gmail.com](mailto:hetrank08@gmail.com)
+
+* ---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hetrank/hetrank/output/github-contribution-grid-snake.svg" />
+</p>
+
