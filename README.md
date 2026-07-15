@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer & AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="https://het-portfolio.vercel.app">Portfolio</a> •
+  <a href="https://het-rank.vercel.app">Portfolio</a> •
   <a href="https://www.linkedin.com/in/het-rank-024540312">LinkedIn</a> •
   <a href="mailto:hetrank08@gmail.com">Email</a>
 </p>
